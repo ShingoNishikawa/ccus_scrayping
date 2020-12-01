@@ -1,0 +1,4 @@
+certifi==2020.11.8
+selenium==3.141.0
+urllib3==1.26.2
+wincertstore==0.2
